@@ -10,8 +10,6 @@
 #include <stdint.h>
 #include <stdbool.h>
 
-/* ... ที่เหลือเหมือนเดิม ... */
-
 /* Version */
 #define QSTD_VERSION_MAJOR 1
 #define QSTD_VERSION_MINOR 0
